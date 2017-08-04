@@ -1,2 +1,3 @@
 # wp-php-info
-Displays phpinfo() in Wordpress Settings menu
+
+Wordpress plugin that displays phpinfo() in Wordpress Settings menu.
