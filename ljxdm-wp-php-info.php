@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: LJXDM Wordpress phpinfo()
-Plugin URI: https://github.com/ljxdm/wp-php-info
+Plugin URI: https://github.com/ljxdm/ljxdm-wp-php-info
 Description:  Displays phpinfo() in Wordpress Settings menu.
 Author: LJXDM
 Version: 19
@@ -15,7 +15,7 @@ $ljxdm_wp_phpinfo = new ljxdm_wp_phpinfo;
 /**
  * WordPress phpinfo() core
  *
- * @link		https://github.com/ljxdm/wp-php-info
+ * @link		https://github.com/ljxdm/ljxdm-wp-php-info
  * @package 	LJXDM phpinfo()
  *
  */
