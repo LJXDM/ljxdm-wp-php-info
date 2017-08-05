@@ -8,6 +8,8 @@ Version: 19
 Author URI: https://lojinx.digital
 */
 
+defined( 'ABSPATH' ) or die( 'No.' );
+
 $ljxdm_wp_phpinfo = new ljxdm_wp_phpinfo;
 
 /**
